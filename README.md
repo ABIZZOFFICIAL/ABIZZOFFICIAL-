@@ -76,5 +76,3 @@
         <p>&copy; 2025 Abizz – All Rights Reserved</p>
     </footer>
 
-</body>
-</html>
