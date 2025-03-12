@@ -76,5 +76,3 @@
         <p>&copy; 2025 Abizz – All Rights Reserved</p>
     </footer>
 
-</body>
-</html>![bracket_prediction_portrait 2](https://github.com/user-attachments/assets/24b24c81-babd-4c1d-a483-03f7d32754c3)
